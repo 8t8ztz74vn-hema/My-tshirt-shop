@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>محل الزغبي</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>محل الزغبي 🛍️</h1>
+        <p>أفضل المنتجات بأفضل الأسعار</p>
+    </header>
+
+    <main>
+
+        <h2>منتجاتنا</h2>
+
+        <div class="product">
+            <h3>منتج رقم 1</h3>
+            <p>منتج ممتاز وبجودة عالية</p>
+            <strong>550 جنيه</strong>
+            <br><br>
+            <button onclick="buy()">اطلب الآن</button>
+<a class="whatsapp" href="https://wa.me/01140752955">
+    تواصل معنا على واتساب 📱
+</a>
+        </div>
+
+        <div class="product">
+            <h3>منتج رقم 2</h3>
+            <p>اختيار رائع وبسعر مناسب</p>
+            <strong>450 جنيه</strong>
+            <br><br>
+            <button onclick="buy()">اطلب الآن</button>
+        </div>
+
+    </main>
+
+    <footer>
+        <p>© 2026 محل الزغبي</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
+<div class="product">
+    <img src="tshirt.jpg" alt="تيشيرت Box Fit">
+
+    <h3>تيشيرت Box Fit</h3>
+    <p>تيشيرت بخامة ممتازة وتصميم عصري</p>
+
+    <strong>500 جنيه</strong>
+
+    <br><br>
+
+    <button onclick="buy()">اطلب الآن</button>
+</div>
